@@ -1,4 +1,4 @@
-import "./styles.css";
+//import "./styles.css";
 var slider = document.getElementById("slide");
 var txt = document.getElementById("txt");
 slider.addEventListener("click", function () {
